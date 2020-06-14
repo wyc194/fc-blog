@@ -1,0 +1,5 @@
+rootProject.name = 'fc-blog'
+include 'fc-blog-util'
+include 'fc-blog-core'
+include 'fc-blog-manage'
+
